@@ -1,4 +1,4 @@
 # apnacollege-demo
 A Demo Repository
 <br>
-Author -> Kaustubh Mukdam
+Author -> Kaustubh Devidas Mukdam
